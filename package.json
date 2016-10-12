@@ -1,12 +1,10 @@
 {
-  "name": "lsoaPopNorm",
-  "version": "0.0.0",
+  "name": "mappingid-bot",
+  "version": "0.1.0",
   "private": true,
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "start": ""
   },
-  "dependencies": {
-    "mappingid-bot": "git+https://github.com/gavinleng/mappingid-bot.git"
-  }
+  "dependencies": {}
 }
